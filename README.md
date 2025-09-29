@@ -10,11 +10,6 @@ Here, I try out commands, workflows, and small projects as I grow more comfortab
 - [About](#about)  
 - [What’s Inside](#whats-inside)  
 - [How to Use / Clone](#how-to-use--clone)  
-- [My Learning Progress](#my-learning-progress)  
-- [Contributing](#contributing)  
-- [License / Disclaimer](#license--disclaimer)  
-- [Contact](#contact)
-
 ---
 
 ## About
