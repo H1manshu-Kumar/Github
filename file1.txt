@@ -1,5 +1,5 @@
 This file is created on local file directory for git and github purpose!
 This is a new line
 This is wrong commit changes
-
-
+This is another new line!
+This is anothr bug...
