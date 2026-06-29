@@ -1,7 +1,6 @@
 # GitHub Learning & Practice
 
-This repository is for my experiments, learning, and practice with **Git** and **GitHub**.  
-Here, I try out commands, workflows, and small projects as I grow more comfortable with version control.
+This repository is for my experiments, learning, and practice with **Git** and **GitHub**.  Here, I try out commands, workflows, and small projects as I grow more comfortable with version control.
 
 ---
 
