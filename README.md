@@ -45,5 +45,3 @@ git clone https://github.com/H1manshu-Kumar/Github.git
 
 # Move into its directory
 cd Github
-
-# Inspect files, try edits, commits, etc.
